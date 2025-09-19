@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [https://taymon-afk.github.io/my-awesome-project/] (https://taymon-afk.github.io/my-awesome-project/)
+- [https://taymon-afk.github.io/my-awesome-project/] 
